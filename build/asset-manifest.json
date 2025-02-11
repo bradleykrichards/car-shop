@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db327dd6.css",
+    "main.js": "/static/js/main.df191650.js",
+    "static/js/436.583dd0ba.chunk.js": "/static/js/436.583dd0ba.chunk.js",
+    "static/media/toyota_corolla.jpg": "/static/media/toyota_corolla.7f9f2ab63b854fdaf717.jpg",
+    "static/media/BMW M2.jpg": "/static/media/BMW M2.d6c46dd7e37c25a99637.jpg",
+    "static/media/kia picanto.jpg": "/static/media/kia picanto.f50ded05beb83de0d19a.jpg",
+    "static/media/Lamborghini_urus.jpg": "/static/media/Lamborghini_urus.9575763d28a3a63567c0.jpg",
+    "static/media/Land_Rover.jpg": "/static/media/Land_Rover.c59097b422c9a1cedec0.jpg",
+    "static/media/Marcedes_benz_c200.jpg": "/static/media/Marcedes_benz_c200.da792bd7900d296e3c44.jpg",
+    "static/media/toyota etios.jpg": "/static/media/toyota etios.587be5e462c101bab569.jpg",
+    "static/media/Audi_rs3.jpg": "/static/media/Audi_rs3.a62729af41d051351e02.jpg",
+    "static/media/Mercedes_Benz_G-wagon.jpg": "/static/media/Mercedes_Benz_G-wagon.1366259f33aac5d0494a.jpg",
+    "index.html": "/index.html",
+    "main.db327dd6.css.map": "/static/css/main.db327dd6.css.map",
+    "main.df191650.js.map": "/static/js/main.df191650.js.map",
+    "436.583dd0ba.chunk.js.map": "/static/js/436.583dd0ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db327dd6.css",
+    "static/js/main.df191650.js"
+  ]
+}
